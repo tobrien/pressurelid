@@ -8,7 +8,7 @@ const ErrorMessage = ({ message }: ErrorMessageProps) => (
         <p>{message}</p>
         <p>
             Please visit{' '}
-            <a href="https://github.com/utilarium/pressurelid" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/tobrien/pressurelid" target="_blank" rel="noopener noreferrer">
                 GitHub
             </a>{' '}
             for the latest documentation.
