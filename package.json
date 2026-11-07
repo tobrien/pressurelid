@@ -8,7 +8,7 @@
   "types": "./dist/pressurelid.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/utilarium/pressurelid.git"
+    "url": "git+https://github.com/tobrien/pressurelid.git"
   },
   "exports": {
     ".": {
@@ -50,7 +50,7 @@
   ],
   "author": "Tim O'Brien <tobrien@discursive.com>",
   "license": "Apache-2.0",
-  "homepage": "https://utilarium.github.io/pressurelid/",
+  "homepage": "https://tobrien.github.io/pressurelid/",
   "engines": {
     "node": ">=24.0.0"
   },
